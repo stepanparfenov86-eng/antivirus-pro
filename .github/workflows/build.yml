@@ -31,4 +31,3 @@ jobs:
       with:
         name: Antivirus-Windows-EXE
         path: dist/*.exe
-
